@@ -1,0 +1,4 @@
+Cannot generate into /home/matin/Documents/iztech/IZTECH IV/CENG218 - Analysis And Design Of Algorithms/hw/hw2/ceng218_hw02/hw02/exercise2/src
+It was created with incompatible generator 'Unix Makefiles'
+
+Please either delete it manually or select another generation directory
